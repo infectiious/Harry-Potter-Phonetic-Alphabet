@@ -1,6 +1,5 @@
 # Harry Potter Phonetic Alphabet
 
-'''
 A as in ‘Albus Dumbledore’
 B as in ‘Broomstick’
 C as in the ‘Chamber of Secrets’
@@ -27,4 +26,3 @@ W as in ‘Whomping Willow’
 X as in ‘Xenophilius Lovegood’
 Y as in ‘Your a wizard Harry!’
 Z as in ‘Zonkos Wizard Shop'
-'''
