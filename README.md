@@ -3,6 +3,7 @@
 **A** as in *‘Albus Dumbledore’*
 
 **B** as in *‘Broomstick’*
+
 **C** as in the *‘Chamber of Secrets’*
 
 **D** as in *‘Dead parents’*
