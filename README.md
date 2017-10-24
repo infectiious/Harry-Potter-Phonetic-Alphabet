@@ -1,53 +1,52 @@
 # Harry Potter Phonetic Alphabet
 
-A as in ‘Albus Dumbledore’
+**A** as in *‘Albus Dumbledore’*
 
-B as in ‘Broomstick’
+**B** as in *‘Broomstick’*
+**C** as in the *‘Chamber of Secrets’*
 
-C as in the ‘Chamber of Secrets’
+**D** as in *‘Dead parents’*
 
-D as in ‘Dead parents’
+**E** as in *‘Expelliarmus’*
 
-E as in ‘Expelliarmus’
+**F** as in *‘Filthy Muggle’*
 
-F as in ‘Filthy Muggle’
+**G** as in *‘Gandalf’*
 
-G as in ‘Gandalf’
+**H** as in *‘Hagrid Dies’*
 
-H as in ‘Hagrid Dies’
+**I** as in *‘Invisibility Cloak’*
 
-I as in ‘Invisibility Cloak’
+**J** as in *‘Jelly Slugs’*
 
-J as in ‘Jelly Slugs’
+**K** as in *‘Knight Bus’*
 
-K as in ‘Knight Bus’
+**L** as in the *‘Leaky Cauldron’*
 
-L as in the ‘Leaky Cauldron’
+**M** as in *‘Uproot your Mandrakes’*
 
-M as in ‘Uproot your Mandrakes’
+**N** as in *‘Nice earmuffs Potter’*
 
-N as in ‘Nice earmuffs Potter’
+**O** as in *‘Order of the Phoenix’*
 
-O as in ‘Order of the Phoenix’
+**P** as in *‘The Polyjuice Potion’*
 
-P as in ‘The Polyjuice Potion’
+**Q** as in *‘Quidditch’*
 
-Q as in ‘Quidditch’
+**R** as in *‘Ravenclaw’*
 
-R as in ‘Ravenclaw’
+**S** as in the *‘Shrieking Shack’*
 
-S as in the ‘Shrieking Shack’
+**T** as in *the ‘Troll in the dungeon!’*
 
-T as in the ‘Troll in the dungeon!’
+**U** as in *‘Unicorn Blood’*
 
-U as in ‘Unicorn Blood’
+**V** as in *‘Voldemort’*
 
-V as in ‘Voldemort’
+**W** as in *‘Whomping Willow’*
 
-W as in ‘Whomping Willow’
+**X** as in *‘Xenophilius Lovegood’*
 
-X as in ‘Xenophilius Lovegood’
+**Y** as in *‘Your a wizard Harry!’*
 
-Y as in ‘Your a wizard Harry!’
-
-Z as in ‘Zonkos Wizard Shop'
+**Z** as in *‘Zonkos Wizard Shop'*
