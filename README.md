@@ -4,7 +4,7 @@
 
 **B** as in *‘Broomstick’*
 
-**C** as in the *‘Chamber of Secrets’*
+**C** as in *‘Chamber of Secrets’*
 
 **D** as in *‘Dead parents’*
 
