@@ -12,9 +12,9 @@
 
 **F** as in *‘Filthy Muggle’*
 
-**G** as in *‘Gandalf’*
+**G** as in *‘Godric's Hollow’*
 
-**H** as in *‘Hagrid Dies’*
+**H** as in *‘Hogwarts’*
 
 **I** as in *‘Invisibility Cloak’*
 
@@ -28,9 +28,9 @@
 
 **N** as in *‘Nice earmuffs Potter’*
 
-**O** as in *‘Order of the Phoenix’*
+**O** as in *‘Or worse expelled’*
 
-**P** as in *‘The Polyjuice Potion’*
+**P** as in *‘Polyjuice Potion’*
 
 **Q** as in *‘Quidditch’*
 
@@ -38,7 +38,7 @@
 
 **S** as in the *‘Shrieking Shack’*
 
-**T** as in *the ‘Troll in the dungeon!’*
+**T** as in *‘Troll in the dungeon!’*
 
 **U** as in *‘Unicorn Blood’*
 
@@ -48,6 +48,6 @@
 
 **X** as in *‘Xenophilius Lovegood’*
 
-**Y** as in *‘Your a wizard Harry!’*
+**Y** as in *‘You're a wizard Harry!’*
 
 **Z** as in *‘Zonkos Wizard Shop'*
